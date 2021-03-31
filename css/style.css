@@ -1,0 +1,47 @@
+body{
+    margin:0;
+    padding: 0;
+    /* background:#fff ; */
+    /* font-family: 'raleway',sans-serif; */
+}
+.banner{
+    height:100%;
+    width:100%;
+    background: url('../images/work.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+@media (max-width: 575.98px) { 
+    .col1{
+        font-size: 60px;
+    }
+        
+}
+
+@media  (min-width: 576px) and (max-width: 767.98px) {
+
+   
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+   
+
+}
+
+@media (min-width: 992px) and  (max-width: 1199.98px) {
+    
+   
+   
+}
+
+@media (min-width: 1200px) { 
+   
+ }
